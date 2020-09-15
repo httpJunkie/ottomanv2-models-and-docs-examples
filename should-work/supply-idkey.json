@@ -1,0 +1,18 @@
+{
+  
+  "meta": {
+    "id": "_default$Airline::Emirates202009",
+    "rev": "1-16350a892a5800000000000002000000",
+    "expiration": 0,
+    "flags": 33554432,
+    "type": "json"
+  },
+  "xattrs": {},
+
+  "key": "default$Airline::Emirates202009",
+  "value": {
+    "airlineId": "Emirates202009",
+    "_type": "Airline",
+    "_scope": "_default"
+  }
+}
